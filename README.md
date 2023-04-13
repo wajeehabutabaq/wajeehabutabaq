@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and GCP**
 
-- 👨‍💻 All of my projects are available at [--](--)
+- 👨‍💻 Some of my other projects are available at [--](--)
 
 - 💬 Ask me about **Python, data, automation and visualisations !**
 
