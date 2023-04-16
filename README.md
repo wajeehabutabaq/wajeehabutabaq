@@ -3,15 +3,14 @@
 <h3 align="center">A Data Analyst currently living in Berlin</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently trying to better my skills in  **Cloud Technologies**
 
-- 👨‍💻 Some of my other projects are available at [--](--)
+- 👨‍💻 Some of my other projects are available at [wajeehabutabaq.com](--)
 
 - 💬 Ask me about **Python, data, automation and visualisations !**
 
 - 📫 How to reach me **wajihat1995@gmail.com**
 
-- 📄 Know about my experiences [--](--)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
