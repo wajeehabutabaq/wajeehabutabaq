@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to better my skills in  **Cloud Technologies and cloud based data platforms**
 
-- 👨‍💻 Some of my other projects are available at [[wajeehabutabaq.com](https://wajeehabutabaq.github.io/p/)](--)
+- 👨‍💻 Some of my other projects are available at [(https://wajeehabutabaq.github.io/p/)](--)
 
 - 💬 Ask me about **Python, data, automation and visualisations !**
 
